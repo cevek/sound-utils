@@ -1,0 +1,20 @@
+{
+  "name": "sound-utils",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cevek/sound.git"
+  },
+  "author": "cevek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cevek/sound/issues"
+  },
+  "homepage": "https://github.com/cevek/sound#readme"
+}
